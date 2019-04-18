@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">blogApp</string>
+    <string name="Login_header">Login to our blog</string>
+    <string name="login_email_hint">Enter you Email</string>
+    <string name="login_password_hint">Enter Password</string>
+    <string name="login_btn">Login</string>
+    <string name="signup_btn">Sign Up Here</string>
+    <string name="action_search_text">search</string>
+    <string name="action_account_settings_text">account settings</string>
+    <string name="action_logout_text">log out</string>
+    <string name="reg_header_text">Register Here</string>
+    <string name="reg_email_hint">Enter mail to Reg</string>
+    <string name="reg_pass_text">Enter Password Here</string>
+    <string name="reg_pass_again_text">Confirm Password</string>
+    <string name="register_btn_text">Register</string>
+    <string name="already_have_acc_text">Already have account?</string>
+    <string name="hint_username">Enter User Name</string>
+    <string name="text_btn_save_user_settings">Save Your info</string>
+    <string name="hint_addpost">Describe your Post here</string>
+    <string name="txt_btn_addPost">Publish my post!</string>
+
+</resources>
